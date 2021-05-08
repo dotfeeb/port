@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import Logo from '~/components/feeb (1).png'
+import Logo from '~/components/feeblogo.png'
 export default {
   components: {
     Logo
