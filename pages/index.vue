@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import Logo from '~/components/feeb (1).png'
+<img src="~/components/feeblogo.png" width="500" height="600">
 
 export default {
   components: {
