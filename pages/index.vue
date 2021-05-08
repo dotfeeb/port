@@ -10,18 +10,18 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://twitter.com/dotfeeb"
           target="_blank"
           class="button--green"
         >
           Twitter
         </a>
         <a
-          href="https://twitter.com/dotfeeb"
+          href="https://namebase.io/"
           target="_blank"
           class="button--grey"
         >
-          Github
+          Namebase
         </a>
       </div>
     </div>
